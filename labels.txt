@@ -1,0 +1,3 @@
+0 Chemical Waste
+1 Plastic Debris
+2 Sewage
